@@ -13,7 +13,7 @@ image_preview = "homechef.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["website audit"]
+tags = ["website-audit"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://drive.google.com/open?id=127oyk9UwAOk10B5FTUc34AWKCVXvlUJF"
