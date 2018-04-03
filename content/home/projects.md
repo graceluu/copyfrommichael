@@ -42,7 +42,7 @@ filter_default = 0
 
 [[filter]]
   name = "Consumer Market Research"
-  tag = ".focus group discussion guide", ".ethnography discussion guide"
+  tag = ".discussion guide"
   
 [[filter]]
   name = "Website Audit"
