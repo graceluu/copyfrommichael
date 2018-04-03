@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "Certificate in Marketing with Concentration in Digital Marketing"
   institution = "University of California, Los Angeles Extension"
-  year = In Progress
+  year = 2018
 
 [[education.courses]]
   course = "MA in Psychology"
