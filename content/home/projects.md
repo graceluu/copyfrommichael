@@ -33,23 +33,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Integrated Marketing Plan"
+  name = "Marketing Plans"
   tag = ".marketing plan"
   
 [[filter]]
   name = "Market Research"
-  tag = ".secondary research"
-
-[[filter]]
-  name = "Consumer Market Research"
-  tag = ".discussion guide"
+  tag = ".secondary research" ".discussion guide"
   
 [[filter]]
   name = "Website Audit"
   tag = ".website audit"
   
-[[filter]]
-  name = "Collaborations"
-  tag = ".marketing plan"  
 +++
 
