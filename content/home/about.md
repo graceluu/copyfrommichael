@@ -7,13 +7,13 @@ date = "2016-04-20T00:00:00"
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "R",
-    "Predictive Modeling",
-    "Machine Learning",
-    "Survival Analysis"
+# List your academic skills.
+[skills]
+  skills = [
+    "Proficient with Adobe Photoshop CC ",
+    "Microsoft Word and Microsoft Excel ",
+    "Language: Fluent in Cantonese ",
+    "PowerPoint knowledge"
   ]
 
 # List your qualifications (such as academic degrees).
