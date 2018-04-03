@@ -5,7 +5,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 title = "Projects"
-subtitle = ""
+subtitle = "Class Projects"
 
 # Order that this section will appear in.
 weight = 50
@@ -33,12 +33,23 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Integrated Marketing Plan"
+  tag = ".marketing plan"
+  
+[[filter]]
+  name = "Market Research"
+  tag = ".secondary research"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
-
+  name = "Consumer Market Research"
+  tag = ".focus group discussion guide", ".ethnography discussion guide"
+  
+[[filter]]
+  name = "Website Audit"
+  tag = ".website audit"
+  
+[[filter]]
+  name = "Collaborations"
+  tag = ".marketing plan"  
 +++
 
