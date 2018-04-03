@@ -37,7 +37,7 @@ filter_default = 0
   tag = ".marketing plan"
   
 [[filter]]
-  name = "Market Research"
+  name = "Research"
   tag = ".discussion guide"
   
 [[filter]]
