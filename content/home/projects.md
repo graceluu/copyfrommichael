@@ -38,7 +38,7 @@ filter_default = 0
   
 [[filter]]
   name = "Market Research"
-  tag = ".secondary research" ".discussion guide"
+  tag = ".discussion guide"
   
 [[filter]]
   name = "Website Audit"
