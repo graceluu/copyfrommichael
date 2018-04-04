@@ -33,7 +33,7 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Marketing Plans"
+  name = "Writing Samples"
   tag = ".marketing-plan"
   
 [[filter]]
