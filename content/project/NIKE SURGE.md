@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "NIKE SURGE"
 
 # Project summary to display on homepage.
-summary = "Marketing plan for mock strategic business unit <b>NIKE SURGE</b>."
+summary = "Marketing plan for mock strategic business unit <b>NIKE SURGE</b>. Collaborated work for Marketing Principles and Practices class."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "surge.png"
