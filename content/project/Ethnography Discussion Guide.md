@@ -6,8 +6,7 @@ date = "2016-04-27"
 title = "Ethnography Disucssion Guide"
 
 # Project summary to display on homepage.
-summary = "Ethnography discussion guide pertaining to
-perception and brand awareness of frozen product."
+summary = "Ethnography discussion guide pertaining to perception and brand awareness of frozen product."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "pizza.jpg"
