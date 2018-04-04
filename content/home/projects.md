@@ -43,6 +43,10 @@ filter_default = 0
 [[filter]]
   name = "Website Audit"
   tag = ".website-audit"
+
+[[filter]]
+  name = "Presentations"
+  tag = ".presentation"  
   
 +++
 
