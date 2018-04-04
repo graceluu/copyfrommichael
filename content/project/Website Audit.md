@@ -3,7 +3,7 @@
 date = "2018-04-03"
 
 # Project title.
-title = "Website Audit"
+title = "Home Chef Website Audit"
 
 # Project summary to display on homepage.
 summary = "Audit of the website, Home Chef, and recommendations to improve social media reach and customer retention."
