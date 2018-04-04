@@ -9,7 +9,7 @@ title = "Website Audit"
 summary = "Audit of the website, Home Chef, and recommendations to improve social media reach and customer retention."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "homechef.png"
+image_preview = "homechef.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
