@@ -39,10 +39,6 @@ filter_default = 0
 [[filter]]
   name = "Research"
   tag = ".discussion-guide"
-  
-[[filter]]
-  name = "Website Audit"
-  tag = ".website-audit"
 
 [[filter]]
   name = "Presentations"
