@@ -9,7 +9,7 @@ title = "Budget Meals"
 summary = "Integrated Marketing Communications Plan for mock mobile application, Budget Meals."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "budgetmeals.jpg"
+image_preview = "budgetmeals.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/budgetmeals.jpg"
+image = "headers/budgetmeals.png"
 caption = "My caption :smile:"
 
 +++
