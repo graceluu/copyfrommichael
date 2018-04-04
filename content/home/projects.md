@@ -36,9 +36,6 @@ filter_default = 0
   name = "Writing Samples"
   tag = ".marketing-plan"
   
-[[filter]]
-  name = "Research"
-  tag = ".discussion-guide"
 
 [[filter]]
   name = "Presentations"
