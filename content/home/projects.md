@@ -48,5 +48,8 @@ filter_default = 0
   name = "Presentations"
   tag = ".presentation"  
   
+[[filter]]
+  name = "Project Collaborations"
+  tag = ".collaboration"    
 +++
 
