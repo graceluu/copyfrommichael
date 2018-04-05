@@ -8,7 +8,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 65
 
 # Automatically link email and phone?
 autolink = true
