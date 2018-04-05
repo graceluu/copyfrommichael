@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Ultimate Energy Gum"
 
 # Project summary to display on homepage.
-summary = "Branding initiative for fictitious energy gum, Ultimate. Collaborated work for Brand Management class. Presentation by <b>Abbey Bland, Grace Luu, Rong Fu, and Lexi Lee. </b>"
+summary = "Branding initiative for fictitious energy gum, Ultimate. To individuals who need an energy burst, Ultimate Energy Gum makes an energizing chewing gum that invigorates you in minutes, conveniently fits in your pocket, and lacks the mess of coffee and other energy drinks. Collaborated work for Brand Management class. Presentation by <b>Abbey Bland, Grace Luu, Rong Fu, and Lexi Lee. </b>"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ultimate.png"

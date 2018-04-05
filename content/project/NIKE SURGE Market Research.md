@@ -6,7 +6,7 @@ date = "2018-04-03"
 title = "NIKE SURGE Marketing Plan"
 
 # Project summary to display on homepage.
-summary = "Secondary research focusing on the product market, competitors, target market, and key external drivers. Written by <b> Abbey Bland, Foluke Denis, Stacy Gaston, Rebeca Kaizer, Grace Luu, and Krisarin Pradispong.</b>"
+summary = "Partial Marketing Plan introducing the fictious product, NIKE SURGE. NIKE SURGE is bottled water, engineered to re-energize athletes and people who live modern active lifestyles. Written by <b> Abbey Bland, Foluke Denis, Stacy Gaston, Rebeca Kaizer, Grace Luu, and Krisarin Pradispong.</b>"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "surge1.png"

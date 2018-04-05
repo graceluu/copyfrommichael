@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Budget Meals"
 
 # Project summary to display on homepage.
-summary = "Integrated Marketing Communications Plan for mock mobile application, Budget Meals."
+summary = "Integrated Marketing Communications Plan for mock mobile application, Budget Meals. Budget Meals is a mobile application designed to deliver convenient meal planning to busy millennials."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "budgetmeals.jpg"
