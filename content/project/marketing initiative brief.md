@@ -13,7 +13,7 @@ image_preview = "ultimate1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["marketing-plan", "collaboration"]
+tags = ["marketing-plan"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://drive.google.com/open?id=1jPKR2zDAxKkiz7-TwcfIv24vO0lVP3Z4"
