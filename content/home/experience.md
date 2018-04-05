@@ -1,5 +1,6 @@
 +++
-# Experience widget.
+# Experience Posts widget.
+# This widget displays recent posts from `content/post/`.
 widget = "experience"
 active = true
 date = "2016-04-20T00:00:00"
@@ -8,20 +9,16 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 65
+weight = 40
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "experience"
+# Filter posts by tag.
+#  By default, show all recent posts.
+#  Filtering example: `tags_include = ["hugo", "academic"]`
+tags_include = []
+tags_exclude = []
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-view = 0
-
-# Automatically link email and phone?
-autolink = true
+# Number of posts to list.
+count = 5
 
 +++
 
