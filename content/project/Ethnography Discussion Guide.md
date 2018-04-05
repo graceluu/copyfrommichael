@@ -13,7 +13,7 @@ image_preview = "pizza.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["discussion-guide", "marketing-plan"]
+tags = ["marketing-plan"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://drive.google.com/open?id=1y8LmDCw-3I2DCqbDp-NFn-0Wufd9Wn_Q"
