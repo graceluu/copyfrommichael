@@ -13,7 +13,7 @@ summary = "Accepted abstracts at various conferences"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["abstract"]
+tags = ["experience"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://nicu.shinyapps.io/feedingcalc"
