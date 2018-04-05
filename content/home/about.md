@@ -25,7 +25,7 @@ weight = 5
 
 [[education.courses]]
   course = "MA in Psychology"
-  institution = "California State University, FUllerton"
+  institution = "California State University, Fullerton"
   year = 2017
   
 [[education.courses]]
