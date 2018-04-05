@@ -1,5 +1,5 @@
 +++
-# experience widget.
+# Experience widget.
 widget = "experience"
 active = true
 date = "2016-04-20T00:00:00"
@@ -8,41 +8,10 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 60
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "experience"` displays content from `content/experience/`.
-folder = "experience"
+# Automatically link email and phone?
+autolink = true
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-view = 1
-
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
-
-[[filter]]
-  name = "Writing Samples"
-  tag = ".marketing-plan"
-  
-
-[[filter]]
-  name = "Presentations"
-  tag = ".presentation"  
-  
-[[filter]]
-  name = "Project Collaborations"
-  tag = ".collaboration"    
 +++
 
