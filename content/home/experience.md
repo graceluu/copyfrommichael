@@ -1,42 +1,48 @@
 +++
-# About/Biography widget.
+# experience widget.
 widget = "experience"
 active = true
 date = "2016-04-20T00:00:00"
 
+title = "Experience"
+subtitle = ""
+
 # Order that this section will appear in.
-weight = 5
+weight = 50
 
-# List your academic skills.
-[skills]
-  skills = [
-    "Proficient with Adobe Photoshop CC ",
-    "Microsoft Word and Microsoft Excel ",
-    "Language: Fluent in Cantonese ",
-    "PowerPoint knowledge"
-  ]
+# Content.
+# Display content from the following folder.
+# For example, `folder = "experience"` displays content from `content/experience/`.
+folder = "experience"
 
-# List your qualifications (such as academic degrees).
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards.
+view = 1
 
-[[education.courses]]
-  course = "Certificate in Marketing with Concentration in Digital Marketing"
-  institution = "University of California, Los Angeles Extension"
-  year = 2018
+# Filter toolbar.
 
-[[education.courses]]
-  course = "MA in Psychology"
-  institution = "California State University, FUllerton"
-  year = 2017
+# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
+filter_default = 0
+
+# Add or remove as many filters (`[[filter]]` instances) as you like.
+# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
+# To remove toolbar, delete/comment all instances of `[[filter]]` below.
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "Writing Samples"
+  tag = ".marketing-plan"
   
-[[education.courses]]
-  course = "BSc in Psychology"
-  institution = "University of California, San Diego"
-  year = 2013
- 
+
+[[filter]]
+  name = "Presentations"
+  tag = ".presentation"  
+  
+[[filter]]
+  name = "Project Collaborations"
+  tag = ".collaboration"    
 +++
 
-# About
-
-I am currently a student working on the Marketing with Concentration in Digital Marketing certificate at UCLA Extension. I received my Masters in Psychology at the California State University, Fullerton in 2017.
-
-After working in the field as a Behavior Specialist and conducting independent research at CSUF, my attention shifted towards Marketing. I wanted to apply my background in psychology in a business context and found that the field of Marketing best aligned with my goals and interests. I hope to work in a creative environment where I can assist in the development and launching of different exciting campaigns. 
