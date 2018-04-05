@@ -1,18 +1,42 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
+# About/Biography widget.
 widget = "experience"
-active = active
+active = true
 date = "2016-04-20T00:00:00"
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Experience"
-subtitle = ""
-
 # Order that this section will appear in.
-weight = 60
+weight = 5
 
+# List your academic skills.
+[skills]
+  skills = [
+    "Proficient with Adobe Photoshop CC ",
+    "Microsoft Word and Microsoft Excel ",
+    "Language: Fluent in Cantonese ",
+    "PowerPoint knowledge"
+  ]
+
+# List your qualifications (such as academic degrees).
+
+[[education.courses]]
+  course = "Certificate in Marketing with Concentration in Digital Marketing"
+  institution = "University of California, Los Angeles Extension"
+  year = 2018
+
+[[education.courses]]
+  course = "MA in Psychology"
+  institution = "California State University, FUllerton"
+  year = 2017
+  
+[[education.courses]]
+  course = "BSc in Psychology"
+  institution = "University of California, San Diego"
+  year = 2013
+ 
 +++
 
-test test
+# About
+
+I am currently a student working on the Marketing with Concentration in Digital Marketing certificate at UCLA Extension. I received my Masters in Psychology at the California State University, Fullerton in 2017.
+
+After working in the field as a Behavior Specialist and conducting independent research at CSUF, my attention shifted towards Marketing. I wanted to apply my background in psychology in a business context and found that the field of Marketing best aligned with my goals and interests. I hope to work in a creative environment where I can assist in the development and launching of different exciting campaigns. 
