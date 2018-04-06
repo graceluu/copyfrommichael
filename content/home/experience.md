@@ -15,14 +15,17 @@ weight = 30
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+PREVIOUS PROFFESIONAL EXPERIENCE
 
-I am a teaching instructor for the following courses at University X:
+<b>Behavior Specialist</b>	                                         April 2014 – July 2017
+Howard J. Chudler & Associates, Inc., Covina, CA	
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+
+RESEARCH EXPERIENCE
+
+Graduate Research Assistant	                                      January 2015 – April 2017
+Peissig Vision Lab, Fullerton, CA	
+
+Undergraduate Research Assistant	                                   March 2013 – July 2013
+Infant Vision Lab, La Jolla, CA	
+
