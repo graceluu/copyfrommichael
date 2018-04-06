@@ -240,19 +240,14 @@ defaultContentLanguageInSubdir = false
   weight = 2  
   
 [[menu.main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 3    
-  
-[[menu.main]]
   name = "Resume"
   url = "#cv"
-  weight = 4      
+  weight = 3      
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
