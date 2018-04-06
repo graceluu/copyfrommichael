@@ -15,7 +15,8 @@ weight = 30
 
 PREVIOUS PROFFESIONAL EXPERIENCE
 
-<b>Behavior Specialist</b>	                &nbsp;&nbsp;&nbsp;&nbsp;April 2014 – July 2017
+<b>Behavior Specialist</b>	                
+<br>April 2014 – July 2017</b>
 <br>Howard J. Chudler & Associates, Inc., Covina, CA</br>	
 
 
