@@ -1,7 +1,5 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
+# About/Biography widget.
 widget = "custom"
 active = true
 date = "2016-04-20T00:00:00"
@@ -17,15 +15,15 @@ weight = 30
 
 PREVIOUS PROFFESIONAL EXPERIENCE
 
-<b>Behavior Specialist</b>	                                         April 2014 – July 2017
-Howard J. Chudler & Associates, Inc., Covina, CA	
+<b>Behavior Specialist</b>	                &nbsp;&nbsp;&nbsp;&nbsp;April 2014 – July 2017
+<br>Howard J. Chudler & Associates, Inc., Covina, CA</br>	
 
 
 RESEARCH EXPERIENCE
 
 Graduate Research Assistant	                                      January 2015 – April 2017
-Peissig Vision Lab, Fullerton, CA	
+<br>Peissig Vision Lab, Fullerton, CA	</br>
 
 Undergraduate Research Assistant	                                   March 2013 – July 2013
-Infant Vision Lab, La Jolla, CA	
+<br>Infant Vision Lab, La Jolla, CA	</br>
 
