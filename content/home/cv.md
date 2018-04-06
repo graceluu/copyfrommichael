@@ -22,4 +22,4 @@ count = 5
 
 +++
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}<b>Download my CV</b>{{% /staticref %}}
