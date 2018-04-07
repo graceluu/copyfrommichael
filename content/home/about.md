@@ -41,3 +41,5 @@ I am currently a student working on the Marketing with Concentration in Digital 
 
 After working in the field as a Behavior Specialist and conducting independent research at CSUF, my attention shifted towards Marketing. I wanted to apply my background in psychology in a business context and found that the field of Marketing best aligned with my goals and interests. I hope to work in a creative environment where I can assist in the development and launching of different exciting campaigns. 
 
+
+{{% staticref "files/cv.pdf" %}}DOWNLOAD RESUME{{% /staticref %}}

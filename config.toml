@@ -243,11 +243,11 @@ defaultContentLanguageInSubdir = false
   name = "Projects"
   url = "#projects"
   weight = 2  
-  
+
 [[menu.main]]
-  name = "Resume"
-  url = "#cv"
-  weight = 3      
+  name = "Education"
+  url = "#education"
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
