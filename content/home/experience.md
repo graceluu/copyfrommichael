@@ -37,6 +37,7 @@ weight = 40
 <li>Composed reports detailing the progress of the case and provided the recommendation of its continuation or closure.</li>
 </ul>
 </table>
+<p>&nbsp;</p>
 
 <p><strong>RESEARCH EXPERIENCE</strong></p>
 <table>
