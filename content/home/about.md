@@ -37,9 +37,16 @@ weight = 5
 
 # About
 
-I am currently a student working on the Marketing with Concentration in Digital Marketing certificate at UCLA Extension. I received my Masters in Psychology at the California State University, Fullerton in 2017.
+Hi, wandering visitor! I hoped that you stopped by because you wanted to learn more about me. 
 
-After working in the field as a Behavior Specialist and conducting independent research at CSUF, my attention shifted towards Marketing. I wanted to apply my background in psychology in a business context and found that the field of Marketing best aligned with my goals and interests. I hope to work in a creative environment where I can assist in the development and launching of different exciting campaigns. 
+I am currently a student working on the Marketing with Concentration in Digital Marketing certificate at UCLA Extension. I worked as a Behavior Specialist for several years, but I slowly realized that my passion was elsewhere. I wanted to apply my background in psychology in a business context and found that the field of Marketing best aligned with my goals and interest in the entertainment industry and media.
+
+If you were to ask me to describe myself, I would say I am self-motivated, resourceful and diligent. But, how do these words translate into my work? Well, this website is a good example. 
+
+This is my first website, which admittedly means I lacked knowledge in creating and launching a website. However, I am diligent and patient in seeing things through. Over a few days, I watched YouTube videos, asked my brother many questions, read sections of "blogdown: Creating Websites with R Markdown" on how to launch a website. It was challenging, but through many trials and errors, I learned how to use GitHub and Netlify to operate graceluu.com. I believe with any challenge, persistence and patience will be rewarded. 
+
+That's all the tidbit about me for now. Check out other sections of my website or contact me through LinkedIn or email if you would like to know more. If you think I am an ideal candidate for a job or internship opportunity, don't hesitate to send an email my way. 
+
 
 
 {{% staticref "files/cv.pdf" %}}DOWNLOAD RESUME{{% /staticref %}}
