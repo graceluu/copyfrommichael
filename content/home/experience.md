@@ -8,46 +8,52 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Experience"
-subtitle = "Academic Experience at UCLA Extension"
+subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 40
 
 +++
 
-<li><strong>Strategic Marketing</strong>
+<p><strong>PREVIOUS PROFESSIONAL EXPERIENCE</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="444">
+<p><strong>Behavior Specialist</strong></p>
+<p>Howard J. Chudler &amp; Associates, Inc., Covina, CA</p>
+</td>
+<td width="179">
+<p>April 2014 &ndash; July 2017</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>Liaison
+<li>Managed a caseload of 11 patients with a range of developmental disabilities (e.g. autism, downs syndrome, shaken baby syndrome).</li>
+<li>Worked with parents on implementing treatment plans, with specific goals of improving cooperation, reducing tantrums, and developing verbal abilities of patients.</li>
+<li>Equipped clients with the skills to appropriately express their needs and respond to unmet expectations.</li>
+<li>Composed reports detailing the progress of the case and provided the recommendation of its continuation or closure.</li>
+</ul>
+
+<p><strong>RESEARCH EXPERIENCE</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="444">
+<p><strong>Graduate Research Assistant</strong></p>
+<p>Peissig Vision Lab, Fullerton, CA</p>
+</td>
+<td width="179">
+<p>January 2015 &ndash; April 2017</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>Served as a liaison, maintaining communication between team and client to ensure expectations and goals were conveyed.</li>
-<li>Collaborated with team members to develop a strategic plan for newly established mobile application, Gradelo.</li>
-<li>Conducted SWOT analysis of Gradelo and its competitors.</li>
-<li>Discussed the market overview and explained the main concern impacting the success of Gradelo in a presentation.</li>
+<li>Developed protocol to establish homogeneity in the data collection process and the reduction in errors of the research findings.</li>
+<li>Analyzed the effect of the applied stimulus, on the subjects&rsquo; ability to identify similar/dissimilar parts of images in the experiment.</li>
+<li>Equipped research assistants with the facilities to independently conduct experiments and maintained a consistent line of communication to ensure progress was sustained.</li>
+<li>Presented and defended results of an independent project to a research committee.</li>
 </ul>
-</li>
-<li><strong>Digital Marketing</strong>
-<ul>
-<li>Assessed the website, Home Chef, in particular to the company&rsquo;s target audience, digital marketing platforms, and customer experience.</li>
-<li>Provided recommendations to improve social media reach and customer retention in a final presentation.</li>
-</ul>
-</li>
-<li><strong>Consumer Market Research</strong>
-<ul>
-<li>Composed focus group and ethnography discussion guide pertaining to perception and brand awareness of frozen pizza.</li>
-</ul>
-</li>
-<li><strong>Brand Management</strong>
-<ul>
-<li>Planned branding initiative with a team for fictitious energy gum, Ultimate.</li>
-<li>Researched the newly emerging category of energy gum on the market, explained product POD, drafted creative brief and presented marketing plan.</li>
-</ul>
-</li>
-<li><strong>Integrated Marketing Communication </strong>
-<ul>
-<li>Designed integrated marketing communication plan for mock mobile application, Budget Meals.</li>
-<li>Researched target demographics and composed final plan outlining product definition, marketing messages, and media mix into a document.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<p>&nbsp;</p>
