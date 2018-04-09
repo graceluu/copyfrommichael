@@ -45,8 +45,8 @@ If you were to ask me to describe myself, I would say I am self-motivated, resou
 
 This is my first website, which admittedly means I lacked knowledge in creating and launching a website. However, I am diligent and patient in seeing things through. Over a few days, I watched YouTube videos, asked my brother many questions, read sections of "blogdown: Creating Websites with R Markdown" on how to launch a website. It was challenging, but through many trials and errors, I learned how to use GitHub and Netlify to operate graceluu.com. I believe with any challenge, persistence and patience will be rewarded. 
 
-That's all the tidbit about me for now. Check out other sections of my website or contact me through LinkedIn or email if you would like to know more. If you think I am an ideal candidate for a job or internship opportunity, don't hesitate to send an email my way. 
+That's all the tidbit about me for now. Check out other sections of my website or contact me through LinkedIn or email if you would like to know more. If you believe I am an ideal candidate for a job or internship opportunity, don't hesitate to send an email my way. 
 
 
 
-{{% staticref "files/cv.pdf" %}}DOWNLOAD RESUME{{% /staticref %}}
+{{% staticref "files/resume.pdf" %}}DOWNLOAD RESUME{{% /staticref %}}
