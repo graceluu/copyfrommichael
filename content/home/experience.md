@@ -17,6 +17,7 @@ weight = 40
 
 <p><strong>PREVIOUS PROFESSIONAL EXPERIENCE</strong></p>
 <table>
+<table>
 <tbody>
 <tr>
 <td width="444">
@@ -35,6 +36,7 @@ weight = 40
 <li>Equipped clients with the skills to appropriately express their needs and respond to unmet expectations.</li>
 <li>Composed reports detailing the progress of the case and provided the recommendation of its continuation or closure.</li>
 </ul>
+</table>
 
 <p><strong>RESEARCH EXPERIENCE</strong></p>
 <table>
