@@ -35,7 +35,7 @@ weight = 5
   
 +++
 
-# About
+# About Me
 
 Hi, wandering visitor! I hoped that you stopped by because you wanted to learn more about me. 
 
