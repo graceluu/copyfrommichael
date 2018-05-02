@@ -37,7 +37,7 @@ weight = 5
 
 # About Me
 
-Hi, wandering visitor! I hoped that you stopped by because you wanted to learn more about me. 
+Hi, thanks for stopping by!
 
 I am currently a student working on the Marketing with Concentration in Digital Marketing certificate at UCLA Extension. I worked as a Behavior Specialist for several years, but I slowly realized that my passion was elsewhere. I wanted to apply my background in psychology in a business context and found that the field of Marketing best aligned with my goals and interest in the entertainment industry and media.
 
