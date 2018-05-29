@@ -15,7 +15,7 @@ weight = 40
 
 +++
 
-<p><strong>PREVIOUS PROFESSIONAL EXPERIENCE</strong></p>
+<p><strong>PROFESSIONAL EXPERIENCE</strong></p>
 <table>
 <table>
 <tbody>
