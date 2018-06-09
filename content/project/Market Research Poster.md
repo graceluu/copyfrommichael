@@ -15,6 +15,8 @@ image_preview = "poster.pdf"
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["poster"]
 
+# Optional external URL for project (replaces project detail page).
+external_link = "https://drive.google.com/open?id=15ivEziC6D9YA4gBdyw7MuY8EjgGs4BYT"
 
 # Does the project detail page use math formatting?
 math = false
