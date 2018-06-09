@@ -42,6 +42,10 @@ filter_default = 0
   tag = ".presentation"  
   
 [[filter]]
+  name = "Market Research Poster"
+  tag = ".poster"    
+  
+[[filter]]
   name = "Project Collaborations"
   tag = ".collaboration"    
 +++
